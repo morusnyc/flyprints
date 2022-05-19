@@ -3,8 +3,6 @@ layout: page
 title: Browse the Collection
 permalink: /collection/
 ---
+### This gallery contains a selection of prints from the Fly Prints Collection held at the [Museum of Reclaimed Urban Space](www.morusnyc.org){:target="_blank"} in New York City's Lower East Side. For permissions, reproduction rights, or to access full collections, contact [John C. Harris](mailto:archives@morusnyc.org).
 
-This site's sample collection comprises a set of objects, each of which is represented by one or more images. The collection items in this demo are from The Museum of Islamic Art, Qatar, (courtesy of [WikiMedia](https://commons.wikimedia.org/wiki/Category:Google_Art_Project_works_in_The_Museum_of_Islamic_Art,_Qatar) and [Google Art Project](https://www.google.com/culturalinstitute/about/artproject/)) and The Qatar National Library (via [World Digital Library](https://www.wdl.org/en/)).
-
-
-{% include collection_gallery.html collection='qatar' facet_by='object_type' %}
+{% include collection_gallery.html collection='flyprints' facet_by='object_type' %}

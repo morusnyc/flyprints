@@ -120,6 +120,8 @@ menu:
     link: '/reuse/'
   - label: 'Credits'
     link: '/credits/'
+  - label: 'Collection'
+    link: '/collection/'
 
 # --------------------------------------------------------------
 # SITE FOOTER SETTINGS
