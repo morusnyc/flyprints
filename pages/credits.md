@@ -9,7 +9,7 @@ permalink: '/credits/'
 [Bryan Zehngut-Willits](http://rbzwillits.org/) is a volunteer at [MoRUS](http://www.morusnyc.org/) where he serves as a digital collections and archives consultant and a member of the archives committee. He is a PhD candidate at New York University studying the United States in the world during the long nineteenth century specializing in immigration, global migrations, and U.S imperialism. Zehngut-Willits has also worked in education and exhibitions departments at major museums in New York City, and holds an advanced certificate in public history. He also serves as the Digital and Public Communications Coordinator for the [Immigration and Ethnic History Society](https://iehs.org/people#coordinator). Zehngut-Willits strives to combine digital scholarly methods with years of experience in the field of public history to create accessible and engaging digital history projects that can bring cutting edge scholarship to researchers, students, and public audiences.
 
 ### How to Cite this Project
-We ask that any citation of this project as a whole credit John C. Harris, Stephanie Zambrana, and Bryan Zehngut-Willits (E.G. Harris, John C., Stephanie Zambrana, and Bryan Zehngut-Willits, Fly Prints Collection, https://morusnyc.github.io/fly_prints/). 
+We ask that any citation of this project as a whole credit John C. Harris, Stephanie Zambrana, and Bryan Zehngut-Willits (E.G. Harris, John C., Stephanie Zambrana, and Bryan Zehngut-Willits, Fly Prints Collection, https://morusnyc.github.io/flyprints/). 
 
 ### How to Cite Objects from the Collection
 \[Creator\], \[Title\], \[Description\], \[Source\], \[Date\], From the Fly Prints Collection at the Museum of Reclaimed Urban Space.
