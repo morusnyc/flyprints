@@ -18,6 +18,6 @@ In the mid 1980s a movement coalesced in which squatting a building—rather tha
 
 A selection of buildings that made up the squat network are memorialized through Fly’s art on display. The buildings evicted before the 2002 deal are indicated by Fly’s use of “RIP” in the title of the work. The former squats that remain as part of the deal with UHAB are now considered Housing Development Fund Corporation (HDFC) Co-Ops.
 
-## Browse below for a selection of prints from the Fly Prints Collection at [MoRUS](http://www.morusnyc.org/){:target="_blank"}
+## See below for a selection of prints from the Fly Prints Collection at [MoRUS](http://www.morusnyc.org/){:target="_blank"}
 
 {% include collection_gallery.html facet_by='object_type' collection='flyprints' %}
