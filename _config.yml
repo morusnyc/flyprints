@@ -22,7 +22,7 @@ title:            'Fly Prints'
 description:      'A selection of collages from the Fly Prints Collection at MoRUS'
 url:              'https://morusnyc.github.io'
 baseurl:          '/flyprints'
-copyright:        'For permissions, reproduction rights, or to access full collections, contact (archives@morusnyc.org)[mailto:archives@morusnyc.org]. To view additional collections available at MoRUS, visit our [collections page](http://www.morusnyc.org/collections/)'
+copyright:        'For permissions, reproduction rights, or to access full collections, contact archives@morusnyc.org. To view additional collections available at MoRUS, visit our collections page at http://www.morusnyc.org/collections/'
 logo:             '/assets/logo.png'
 
 # ---------------------------------------------------------------
@@ -136,6 +136,8 @@ footer:
       link: '/credits'
     - label: 'Contact'
       link: 'mailto:archives@morusnyc.org'
+    - label: 'Collections'
+      link: 'http://www.morusnyc.org/collections/'
   logos:
     - img: '/img/logo.png'
 
