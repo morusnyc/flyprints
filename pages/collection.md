@@ -7,4 +7,6 @@ permalink: /collection/
 
 #### For permissions, reproduction rights, or to access full collections, contact [John C. Harris](mailto:archives@morusnyc.org).
 
+#### To view additional collections available at MoRUS, visit our [collections page](http://www.morusnyc.org/collections/){:target="_blank"}.
+
 {% include collection_gallery.html collection='flyprints' facet_by='object_type' %}
