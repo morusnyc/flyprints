@@ -20,8 +20,8 @@ In 2002, eleven of the remaining squats inked a deal with the Urban Homesteading
 
 A selection of buildings that made up the squat network are memorialized through Fly’s art on display below. The buildings evicted before the 2002 deal are indicated by Fly’s use of “RIP” in the title of the work. The former squats that remain as part of the deal with UHAB are now considered Housing Development Fund Corporation (HDFC) Co-Ops.
 
-## Selections from the Fly Prints Collection at [MoRUS](http://www.morusnyc.org/){:target="_blank"}
+### Selections from the Fly Prints Collection at [MoRUS](http://www.morusnyc.org/){:target="_blank"}
 
 {% include collection_gallery.html facet_by='object_type' collection='flyprints' %}
 
-#To view additional collections available at MoRUS, visit our [collections page](http://www.morusnyc.org/collections/)
+#### To view additional collections available at MoRUS, visit our [collections page](http://www.morusnyc.org/collections/).
