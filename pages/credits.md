@@ -14,6 +14,8 @@ We ask that any citation of this project as a whole credit John C. Harris, Steph
 ### How to Cite Objects from the Collection
 \[Creator\], \[Title\], \[Description\], \[Source\], \[Date\], From the Fly Prints Collection at the Museum of Reclaimed Urban Space.
 
+### To view additional collections available at MoRUS, visit our [collections page](http://www.morusnyc.org/collections/)
+
 ### This Site was Built with Wax
 Wax is a minimal computing ([minicomp](https://github.com/minicomp)) project led by [Marii Nyröp](http://marii.info/). The project is currently maintained by Marii Nyröp at New York University and [Alex Gil](https://github.com/elotroalex) at Columbia University Libraries. It uses open source libraries and frameworks including [Jekyll](https://jekyllrb.com), [IIIF](http://iiif.io), [OpenSeaDragon](https://openseadragon.github.io/), [Rake](https://ruby.github.io/rake/), and [ElasticLunr](http://elasticlunr.com/). Wax builds upon work by [Peter Binkley](https://github.com/pbinkley), [David Newbury](https://github.com/workergnome), and others.
 

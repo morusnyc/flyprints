@@ -24,4 +24,4 @@ A selection of buildings that made up the squat network are memorialized through
 
 {% include collection_gallery.html facet_by='object_type' collection='flyprints' %}
 
-#To view additional collections available at Morus, visit our [collections page](http://www.morusnyc.org/collections/).
+#To view additional collections available at MoRUS, visit our [collections page](http://www.morusnyc.org/collections/)
