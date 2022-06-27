@@ -16,7 +16,7 @@ Widespread squatting emerged in response to [spatial deconcentration](http://www
 
 In the mid 1980s a movement coalesced in which squatting a building—rather than seeking government funded homesteading projects—became a form of political action that protested the exploitative realities of housing conditions in the neighborhood. The squatters fought for two decades to secure claims to their homes. At its most violent, this fight led to building fires, riots, and even weaponized human excrement. But this story also reveals a quest for sustainability and equity in housing alternatives defined by companionship, creativity, and community resilience. 
 
-In 2002, eleven of the remaining squats inked a deal with the Urban Homesteading Assistance Board (UHAB) which allowed residents to secured legal ownership of the buildings in exchange for one dollar and the value of the [sweat equity](https://www.habitat.org/stories/what-is-sweat-equity){:target="_blank"} they invested in the rehabilitation of the structures they squatted.
+In 2002, eleven of the remaining squats inked a deal with the Urban Homesteading Assistance Board (UHAB) which allowed residents to secured legal ownership of the buildings in exchange for one dollar and the value of the [sweat equity](https://en.wikipedia.org/wiki/Sweat_equity){:target="_blank"} they invested in the rehabilitation of the structures they squatted.
 
 A selection of buildings that made up the squat network are memorialized through Fly’s art on display below. The buildings evicted before the 2002 deal are indicated by Fly’s use of “RIP” in the title of the work. The former squats that remain as part of the deal with UHAB are now considered Housing Development Fund Corporation (HDFC) Co-Ops.
 
